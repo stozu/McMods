@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 
 [![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)
+[[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)[![Quilt](https://i.imgur.com/pcFMaXC.png)](#quilt-119x)
 
 ## Fabric 1.19.X
 
@@ -43,7 +43,7 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/why-am-i-on-fire)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Ellivers/Why-Am-I-on-Fire) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none | [MIT](/licenses/Licenses.md#mit)
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/wither-cage-fix)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://gitlab.com/supersaiyansubtlety/wither_cage_fix/) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
+[[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)[![Quilt](https://i.imgur.com/pcFMaXC.png)](#quilt-119x)
 
 ## Forge 1.19.X
 
