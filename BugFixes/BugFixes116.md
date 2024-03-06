@@ -4,12 +4,11 @@ A list of bugfix mods for 1.16.x forge/fabric versions.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-116x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-116x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-116x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-116x)
 
 ## Fabric 1.16.X
 
@@ -37,7 +36,7 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)[⁷](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-116x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-116x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-116x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-116x)
 
 ## Forge 1.16.X
 
@@ -57,4 +56,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) | Unknown | Removes the server-side limitations on player speed that result in "player XYZ moved too fast" messages in the console and rubber-banding. | Noobanidus | Server | none |
 | [XL Packets](https://www.curseforge.com/minecraft/mc-mods/xl-packets) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-116x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-116x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-116x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-116x)
