@@ -42,7 +42,7 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)[![Quilt](https://i.imgur.com/pcFMaXC.png)](#quilt-119x)
 
 ## Forge 1.19.X
 
