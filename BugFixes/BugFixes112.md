@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 
 [![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#legacy-fabric-112x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
 
 ## Forge 1.12.X
 
