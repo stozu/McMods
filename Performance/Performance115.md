@@ -3,12 +3,11 @@
 A list of performance-enhancing mods for 1.15.x versions.
 
 Any suggestions/complaints?
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-115x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-115x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-115x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-115x)
 
 ## Fabric 1.15.X
 
@@ -20,7 +19,7 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Sodium](https://github.com/mrmangohands/sodium-fabric/releases/tag/mc1.15.2-0.1.1-SNAPSHOT%2B2020-12-10) | Unknown | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | mrmangohands | Client | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 | [Starlight Legacy](https://modrinth.com/mod/starlight-legacy) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/starlight-legacy)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Radplay/Starlight-Legacy) | Unknown | rewriting the light engine to fix lighting performance and lighting errors. | Radplay | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-115x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-115x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-115x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-115x)
 
 ## Forge 1.15.X
 
@@ -43,4 +42,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/performant)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/someaddons/performant_issues) | Phosphophyllite, Resourceful Bees, + | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | Unknown | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine. | jellysquid_ | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-115x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-115x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-115x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-115x)
