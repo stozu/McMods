@@ -4,12 +4,11 @@ A list of bugfixing mods for 1.19.x forge/fabric versions.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)
 
 ## Fabric 1.19.X
 
@@ -58,7 +57,7 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [No Chat Report](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/no-chat-reports)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Aizistral-Studios/No-Chat-Reports) | Unknown | Strips the cryptographic signatures from chat messages that were added in 1.19 to stop the chat reporting feature from working | Aizistral | Both | None | [Custom](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.19-Forge/LICENSE)
 | [No Time Out No More](https://www.curseforge.com/minecraft/mc-mods/notimeoutnomore) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/notimeoutnomore) | Unknown | NoTimeOutNoMore is a mod that enables editing of server timeout time | zKryle | Server | Configuration Needed(7) | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)
 
 ## Quilt 1.19.X
 
@@ -75,4 +74,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Translucency Fix](https://modrinth.com/mod/translucencyfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/semitranslucency)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/translucencyfix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/ruvaldak/translucencyfix) | Unknown | Allows resource packs to use semitranslucent textures. | ruvaldak | Client | none | [MIT](/licenses/Licenses.md#mit)
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/wither-cage-fix)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://gitlab.com/supersaiyansubtlety/wither_cage_fix/) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)
