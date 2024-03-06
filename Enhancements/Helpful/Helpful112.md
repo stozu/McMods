@@ -4,12 +4,11 @@ A list of helpful mods for 1.12.x forge/fabric versions.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
 
 ## Forge 1.12.X
 
@@ -18,4 +17,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify) | Unknown | Craftify is a mod for Minecraft that allows you to connect to music services and display and control it in-game. | ThatGravyBoat | Client | none |
 | [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) | Unknown | Essential is a quality of life mod that boosts Minecraft Java to the next level. | SparkUniverse_ | Client | none |
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
