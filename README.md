@@ -1,15 +1,12 @@
 # Useful Mods
 
-Note: Alkyaly has stopped maintaining their list, and they have given me the responsibility to maintain their list ([original list here](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88)).
-
 A list of useful mods for most commonly-played versions.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
+Join our [discord](https://discord.gg/stozu) or submit an issue (or a pull request fixing it!)
 
-[![Bisect Hosting Image](https://i.imgur.com/P1m0hoi.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Bisect Hosting Image](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 ___
 
 ## Disclaimer
