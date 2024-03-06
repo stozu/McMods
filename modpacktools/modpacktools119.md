@@ -4,12 +4,11 @@ A list of Modpack tool mods for 1.19.x forge/fabric.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)
 
 ## Fabric 1.19.X
 
@@ -28,7 +27,8 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/tips)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/Tips) | Unknown | This mod will display useful tips on certain game screens such as the world loading screen. The tip shown will be cycled out every five seconds. The pool of tips can be expanded by resource packs, other mods, and even modpacks. | DarkhaxDev | Client | [Yes](https://github.com/Darkhax-Minecraft/Tips/wiki) | none | [LGPL-2.1](/licenses/Licenses.md#lgpl-21)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)
+
 ## Forge 1.19.X
 
 | Name | Known Incompatibilities | Description | Author | Client/Server | Wiki | [Label](/README.md#labels) | License |
@@ -51,4 +51,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/tips)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/Tips) | Unknown | This mod will display useful tips on certain game screens such as the world loading screen. The tip shown will be cycled out every five seconds. The pool of tips can be expanded by resource packs, other mods, and even modpacks. | DarkhaxDev | Client | [Yes](https://github.com/Darkhax-Minecraft/Tips/wiki) | none | [LGPL-2.1](/licenses/Licenses.md#lgpl-21)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-119x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-119x)
