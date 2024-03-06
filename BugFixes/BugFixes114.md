@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 
 [![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-114x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-114x)
 
 ## Fabric 1.14.X
 
@@ -31,4 +31,4 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/netherportalfix)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/TwelveIterationMods/NetherPortalFix) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 | [RandomPatches](https://modrinth.com/mod/randompatches) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/randompatches)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/TheRandomLabs/RandomPatches/tree/1.15) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-114x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-114x)
