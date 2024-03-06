@@ -3,14 +3,13 @@
 A list of performance-enhancing mods for 1.16.x forge/fabric versions.
 
 Any suggestions/complaints?
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
 Don't want to mess around with mods? try out Fabulously Optimized [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized), or Simply Optimized [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/sop)
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-116x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-116x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-116x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-116x)
 
 ## Fabric 1.16.X
 
@@ -61,7 +60,7 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Tic-Tacs](https://github.com/Gegy/tic-tacs/releases) [![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Gegy/tic-tacs/releases) | C2ME | Tic-TACS is an experimental reimplementation of Minecraft's chunk loading engine | gegy | Server | Alpha (3) | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 | [VanillaFix](https://github.com/DimensionalDevelopment/VanillaFix) [![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/DimensionalDevelopment/VanillaFix) | Unknown | Bug fixes and optimizations for Minecraft | BoogieMonster1O1 (Dimensional Development) | Both | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-116x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-116x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-116x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-116x)
 
 ## Forge 1.16.X
 
@@ -121,4 +120,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Sulfuric](https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Someone-Else-Was-Taken/Periodic-Table-Reforged) | Starlight | Unofficial port of Phosphor to Forge. | someoneelsewastaken | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 | [Radon](https://www.curseforge.com/minecraft/mc-mods/radon) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/radon)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Asek3/Radon) | Unknown | Radon is an Unofficial Port of CaffeineMC's "Phosphor," made to work with Forge Mod Loader | Asek3 | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-116x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-116x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-116x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-116x)
