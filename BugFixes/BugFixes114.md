@@ -4,12 +4,11 @@ A list of bugfix mods for 1.14.x forge/fabric versions.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-114x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-114x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
 
 ## Fabric 1.14.X
 
@@ -32,4 +31,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/netherportalfix)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/TwelveIterationMods/NetherPortalFix) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 | [RandomPatches](https://modrinth.com/mod/randompatches) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/randompatches)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/TheRandomLabs/RandomPatches/tree/1.15) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-114x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-114x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
