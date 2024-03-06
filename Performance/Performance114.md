@@ -3,12 +3,11 @@
 A list of performance-enhancing mods for 1.14.x forge/fabric versions.
 
 Any suggestions/complaints?
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-114x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-114x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-114x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-114x)
 
 ## Fabric 1.14.X
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) | License |
@@ -36,4 +35,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/out-of-sight)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Corosauce/OutOfSight) | Unknown | Out of Sight simply stops modded tile entities from rendering if they are further than 24 blocks away | Corosus | Client | Reverse Features (1) | [LGPL-2.1](/licenses/Licenses.md#lgpl-21)
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/performant)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/someaddons/performant_issues) | Phosphophyllite, Resourceful Bees, + | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-114x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-114x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-114x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-114x)
