@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 
 [![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-115x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-115x)
 
 ## Fabric 1.15.X
 
@@ -26,7 +26,7 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 | [Translucency Fix](https://modrinth.com/mod/translucencyfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/semitranslucency)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/translucencyfix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/ruvaldak/translucencyfix) | Unknown | Allows resource packs to use semitranslucent textures. | ruvaldak | Client | none | [MIT](/licenses/Licenses.md#mit)
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
-[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-115x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-115x)
 
 ## Forge 1.15.X
 
@@ -38,4 +38,4 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | none |
 | [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none |
 
-[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#legacy-fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-115x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-115x)
