@@ -6,7 +6,7 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/stozu) or submit an issue (or a pull request fixing it!)
 
-[![Bisect Hosting Image](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 ___
 
 ## Disclaimer
@@ -107,4 +107,4 @@ ___
 ___
 ⁸ Some of the mods that have Magnesium/Rubidium as an incompatibility, might work if you use [Calcium](https://www.curseforge.com/minecraft/mc-mods/calcium)
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
