@@ -4,12 +4,11 @@ A list of performance-enhancing mods for 1.12.x versions.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#legacy-fabric-112x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
 
 ## Forge 1.12.X
 
@@ -46,7 +45,7 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [VintageFix](https://modrinth.com/mod/vintagefix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/vintagefix)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/vintagefix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/embeddedt/VintageFix) | FoamFix | FerriteCore and ModernFix venturing into the stone age | embeddedt | Both | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 | [Vintagium](https://github.com/Asek3/sodium-1.12) [![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Asek3/sodium-1.12) | OptiFine | Vintagium is an Unofficial Fork of CaffeineMC's "Sodium", ported to 1.12.2 and made to work with Forge Mod Loader. | Asek3 | Both | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#legacy-fabric-112x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
 
 ## Legacy Fabric 1.12.X
 
@@ -57,4 +56,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/mipmaplevelandlanguagefix)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/KingContaria/Mipmaplevel-and-Language-Fix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | None | [CC0](/licenses/Licenses.md#cc0)
 | [Phosphor Legacy](https://modrinth.com/mod/phosphor-legacy) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/phosphor-legacy)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Grayray75/phosphor-legacy) | Unknown | Port of Phosphor to Legacy-Fabric 1.12.2 & 1.8.9 | Grayray75 | Client | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#legacy-fabric-112x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-112x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-112x)
