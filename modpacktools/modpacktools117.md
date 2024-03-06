@@ -4,12 +4,11 @@ A list of Modpack tool mods for 1.17.x forge/fabric.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-117x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-117x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-117x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-117x)
 
 ## Fabric 1.17.X
 
@@ -20,7 +19,7 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [MixinTrace](https://modrinth.com/mod/mixintrace) [<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/mixintrace)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/mixintrace)[<img src=/images/github.ico height=18>](https://github.com/comp500/mixintrace) | Unknown | This is a Fabric mod that adds a list of mixins (and Mixin configuration names) to classes in the stack trace to crash reports. | comp500 | Both | none | none | [MIT](/licenses/Licenses.md#mit)
 | [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/open-loader)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/Open-Loader) | Unknown | Open Loader is a utility mod that allows data packs and resource packs to be applied globally across all save files in a game instance. | DarkhaxDev | Both | [Yes](https://github.com/Darkhax-Minecraft/Open-Loader/wiki) | none | [LGPL-2.1](/licenses/Licenses.md#lgpl-21)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-117x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-117x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-117x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-117x)
 
 ## Forge 1.17.X
 
@@ -37,4 +36,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Seed Drop](https://www.curseforge.com/minecraft/mc-mods/seed-drop) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/seed-drop)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/SeedDrop) | Unknown | Seed Drop is a super lightweight utility mod that allows you to customize the drops from grass in vanilla Minecraft. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/seed-drop) | none | [MIT](/licenses/Licenses.md#mit)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-117x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-117x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-117x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-117x)
