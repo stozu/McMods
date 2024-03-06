@@ -20,4 +20,4 @@ Join our [discord](https://discord.gg/stozu) or use the issues.
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 
-[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-120x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-114x)[![Quilt](https://i.imgur.com/pcFMaXC.png)](#quilt-114x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Fabric](https://i.imgur.com/TLfTcfi.png)](#fabric-114x)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-114x)
