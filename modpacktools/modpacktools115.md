@@ -4,12 +4,11 @@ A list of Modpack tool mods for 1.15.x forge.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [discord](https://discord.gg/stozu) or use the issues.
 
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-115x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-115x)
 
 ## Forge 1.15.X
 
@@ -29,4 +28,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Splashy](https://www.curseforge.com/minecraft/mc-mods/splashy) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/splashy)[<img src=/images/github.ico height=18>](https://www.curseforge.com/minecraft/mc-mods/splashy) | Unknown | This mod gives you more control over the splash text that is displayed on the main menu. For example you can disable the vanilla splash texts, or add new splash text entries. | DarkhaxDev | Client | none | none | [LGPL-2.1](/licenses/Licenses.md#lgpl-21)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-115x)
+[![Home](https://i.imgur.com/YkANRM3.png)](/README.md)[![Forge](https://i.imgur.com/jdxFuy0.png)](#forge-116x)
